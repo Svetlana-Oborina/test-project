@@ -5,8 +5,7 @@ public class Test {
         Scanner in = new Scanner(System.in);
         System.out.println("Input a number:  ");
         int num = in.nextInt();
-
-        System.out.printf("Your number is %d \n", num);
+        System.out.printf("Your number: %d \n", num);
 
     }
 }
