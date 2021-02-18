@@ -8,8 +8,6 @@ public class ArrayOperations {
         numbers[numbers.length-1] = firstElement;
         numbers[0] = lastElement;
         //Вывести в консоль результат суммы первого и среднего элемента.
-        System.out.println(numbers[0]);
-        System.out.println(numbers[numbers.length-1]);
         System.out.println("Сумма первого и среднего элемента: " + (numbers[0] + numbers[numbers.length/2]));
 
     }
