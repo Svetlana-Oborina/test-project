@@ -1,3 +1,5 @@
+package OldTask;
+
 import java.util.Scanner;
 
 public class ComparisonOfData {
